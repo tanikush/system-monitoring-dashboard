@@ -66,7 +66,7 @@ system-monitoring-dashboard/
 ## 📸 Dashboard Preview
 
 ### 📊 Grafana Dashboard
-![Grafana Dashboard](screenshots/grafana-dashboard.png)
+![Grafana Dashboard](screenshots/grafana-dashboards.png)
 
 ### 🔍 Prometheus Targets
 ![Prometheus Targets](screenshots/prometheus-targets.png)
