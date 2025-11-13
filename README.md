@@ -13,7 +13,7 @@ A complete system monitoring solution using **Prometheus**, **Grafana**, and **N
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/system-monitoring-dashboard.git
+   git clone https://github.com/tanikush/system-monitoring-dashboard.git
    cd system-monitoring-dashboard
    ```
 
