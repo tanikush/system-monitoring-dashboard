@@ -48,6 +48,12 @@ The `prometheus.yml` file includes:
 - ✅ Docker containerized setup
 - ✅ Easy to deploy and scale
 
+## 🧩 Project Level
+
+**✅ Level: Advanced (for Fresher)**
+
+This project showcases strong knowledge of DevOps tools and container orchestration. It demonstrates the ability to monitor and visualize infrastructure metrics using real-world tools.
+
 ## 🛠️ Project Structure
 
 ```
