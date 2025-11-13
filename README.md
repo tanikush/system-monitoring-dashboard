@@ -65,7 +65,17 @@ system-monitoring-dashboard/
 
 ## 📸 Dashboard Preview
 
-![System Monitoring Dashboard](https://via.placeholder.com/800x400/1f1f1f/ffffff?text=Add+Your+Dashboard+Screenshot+Here)
+### 📊 Grafana Dashboard
+![Grafana Dashboard](screenshots/grafana-dashboard.png)
+
+### 🔍 Prometheus Targets
+![Prometheus Targets](screenshots/prometheus-targets.png)
+
+### 📈 Node Exporter Metrics
+![Node Exporter](screenshots/node-exporter-metrics.png)
+
+### 🖥️ System Overview
+![System Overview](screenshots/system-overview.png)
 
 ## 🚦 Services Status
 

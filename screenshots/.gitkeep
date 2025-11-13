@@ -1,0 +1,8 @@
+# Screenshots Directory
+
+Add your dashboard screenshots here:
+
+1. grafana-dashboard.png - Main Grafana dashboard
+2. prometheus-targets.png - Prometheus targets page
+3. node-exporter-metrics.png - Node exporter metrics
+4. system-overview.png - System overview dashboard
